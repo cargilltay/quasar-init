@@ -37,4 +37,15 @@ $ cordova run ios
 
 # cannot read property 'replace' of undefined?
 $ cd platforms/ios/cordova && npm install ios-sim
+
+```
+
+## Workflow
+``` bash
+
+$ quasar build
+$ cd cordova
+$ cordova run ios
+
+
 ```
