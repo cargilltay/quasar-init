@@ -40,7 +40,6 @@ $ quasar dev
 # lint code
 $ quasar lint
 
-
 # cannot read property 'replace' of undefined?
 $ cd platforms/ios/cordova && npm install ios-sim
 
@@ -52,6 +51,5 @@ $ cd platforms/ios/cordova && npm install ios-sim
 $ quasar build
 $ cd cordova
 $ cordova run ios
-
 
 ```
