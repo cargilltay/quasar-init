@@ -13,14 +13,8 @@
 # install dependencies
 $ npm install
 
-# serve with hot reload at localhost:8080
-$ quasar dev
-
 # build for production with minification
 $ quasar build
-
-# lint code
-$ quasar lint
 
 # wrap cordova for mobile
 $ quasar wrap cordova
@@ -35,8 +29,20 @@ $ cordova build --release ios
 # run ios emulator or plug in phone
 $ cordova run ios
 
+## Additional commands
+``` bash
+
+# serve with hot reload at localhost:8080
+$ quasar dev
+
+# lint code
+$ quasar lint
+
+
 # cannot read property 'replace' of undefined?
 $ cd platforms/ios/cordova && npm install ios-sim
+
+```
 
 ```
 
