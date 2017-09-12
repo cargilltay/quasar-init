@@ -29,6 +29,8 @@ $ cordova build --release ios
 # run ios emulator or plug in phone
 $ cordova run ios
 
+```
+
 ## Additional commands
 ``` bash
 
@@ -41,8 +43,6 @@ $ quasar lint
 
 # cannot read property 'replace' of undefined?
 $ cd platforms/ios/cordova && npm install ios-sim
-
-```
 
 ```
 
